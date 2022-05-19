@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ekerseyc
 - 👀 I’m interested in front end development.
-- 🌱 I’m currently learning front and back end languages through a bootcamp.
-- 💞️ I’m looking to collaborate on TBA
+- 🌱 I’m currently supplementing my Full Stack Bootcamp learning with tutorials as I job search.
+- 💞️ I’m looking to collaborate on fun projects!
 - 📫 reach me @eckcode on twitter or eckcode at gmail
 
 <!---
